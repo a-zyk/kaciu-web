@@ -9,7 +9,7 @@
         <div class="flex flex-col gap-10 z-20 max-w-[600px]">
     
             <h1 class="text-4xl drop-shadow-[1px_2px_var(--tw-shadow-color)] shadow-gray-600 ">Ar svajojate geriau suprasti savo katę?</h1>
-            <h3 class="text-2xl drop-shadow-[1px_2px_var(--tw-shadow-color)] shadow-gray-600 ">
+            <h3 class="text-2xl font-normal drop-shadow-[1px_2px_var(--tw-shadow-color)] shadow-gray-600 ">
               Pasitelkus kačių psichologijos principus galime geriau suprasti agresyvaus
               elgesio, baimės, šlapinimosi ne vietoje priežastis bei jas išpręsti
             </h3>

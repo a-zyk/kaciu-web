@@ -1,8 +1,10 @@
 <script>
-  import { Hero, About } from "$lib";
+  import { Hero, About, Services, Contacts } from "$lib";
 </script>
 
 
 
   <Hero/>
+  <Services/>
   <About/>
+  <Contacts/>

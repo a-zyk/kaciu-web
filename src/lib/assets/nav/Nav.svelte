@@ -1,4 +1,5 @@
 <script>
+  import Cat from "../icons/Cat.svelte";
   import Bars from "../icons/Bars.svelte";
   import { page } from "$app/stores";
   import data from "../data.js";
@@ -10,7 +11,7 @@
   <div class="container py-3  md:pb-6">
     <nav class="flex items-center justify-center">
       <div class="h-8 w-8 md:h-16 md:w-16 self-center">
-        <img src="/flag.png" alt="logo" />
+       <Cat/>
       </div>
 
       <div class="flex-grow" />
