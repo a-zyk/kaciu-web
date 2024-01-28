@@ -33,7 +33,7 @@
         "120 min. trukmės konsultacija Jūsų namuose",
         "Konsultacijos išvadų pateikimas",
         "Aplinkos modifikacijų plano pateikimas",
-        "Dvi 45min. trukmės konsultacijos tolimesniems klausimams ir rezultatams aptarti",
+        "Dvi 45 min. trukmės nuotolinės konsultacijos tolimesniems klausimams ir rezultatams aptarti",
         "Kačių šeimininko vadovas",
       ],
     },
