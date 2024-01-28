@@ -1,4 +1,4 @@
-<div class="container flex  flex-col justify-center items-center">
+<div class="container flex  flex-col justify-center items-center py-8 ">
   <h3 class="mb-4 text-4xl tracking-tight font-abold text-gray-900">
     Kontaktai
   </h3>
