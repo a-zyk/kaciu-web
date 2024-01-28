@@ -1,6 +1,6 @@
 <div id="apie" class="container flex flex-col items-center justify-center md:flex-row gap-8 py-8 md:py-12">
-  <div class="max-w-[400px]">
-    <img class="w-full h-auto" src="/portrait.jpg" alt="portrait" />
+  <div class="max-w-[400px] rounded-lg overflow-hidden">
+    <img class="w-full h-auto " src="/portrait.jpg" alt="portrait" />
   </div>
   <div class="max-w-[300px] flex flex-col items-center">
     <h2 class="mb-4 text-4xl tracking-tight font-abold text-gray-900 ">Labas!</h2>
