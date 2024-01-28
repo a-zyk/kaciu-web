@@ -2,18 +2,21 @@
     import Button from "./assets/Button.svelte";
     import Nav from "./assets/nav/Nav.svelte";
 </script>
-<div class="relative flex flex-col   text-white font-medium h-full overflow-x-hidden">
+<div id="hero" class="relative flex flex-col   text-white font-medium h-full overflow-x-hidden">
 
     <Nav />
-    <div class="flex flex-col justify-center gap-10 container py-8 md:py-20 lg:py-28">
+    <div class="flex flex-col justify-center gap-10 container py-8 md:py-20 lg:py-44">
         <div class="flex flex-col gap-10 z-20 max-w-[600px]">
     
             <h1 class="text-4xl drop-shadow-[1px_2px_var(--tw-shadow-color)] shadow-gray-600 ">Ar svajojate geriau suprasti savo katę?</h1>
             <h3 class="text-2xl font-normal drop-shadow-[1px_2px_var(--tw-shadow-color)] shadow-gray-600 ">
               Pasitelkus kačių psichologijos principus galime geriau suprasti agresyvaus
-              elgesio, baimės, šlapinimosi ne vietoje priežastis bei jas išpręsti
+              elgesio, baimės, vengimo naudotis kraiko dėžute priežastis bei jas išpręsti
             </h3>
-            <Button classes="md:w-[200px]">Paslaugos</Button>
+            <a href="/#paslaugos">
+
+                <Button classes="md:w-[200px]">Paslaugos</Button>
+            </a>
         </div>
     </div>
     <div class="absolute bottom-0 right-0 z-0 opacity-50  h-full w-full">

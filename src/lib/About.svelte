@@ -1,4 +1,4 @@
-<div class="container flex flex-col items-center justify-center md:flex-row gap-8 py-8 ">
+<div id="apie" class="container flex flex-col items-center justify-center md:flex-row gap-8 py-8 md:py-12">
   <div class="max-w-[400px]">
     <img class="w-full h-auto" src="/portrait.jpg" alt="portrait" />
   </div>

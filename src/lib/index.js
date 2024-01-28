@@ -7,4 +7,6 @@ import Hero from "./Hero.svelte"
 import About from "./About.svelte"
 import Services from "./Services.svelte"
 import Contacts from "./Contacts.svelte"
-export { Bars, Nav, Footer, Hero,About, Services, Contacts };
+import Facebook from "./assets/icons/Facebook.svelte"
+import Card from "./assets/Card.svelte"
+export { Bars, Nav, Footer, Hero,About, Services, Contacts, Facebook, Card };
