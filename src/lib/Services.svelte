@@ -13,7 +13,7 @@
 
 <div
   id="paslaugos"
-  class="pt-16 pb-8 md:pt-24 md:pb-12 container mx-auto max-w-screen-xl"
+  class="pt-16 pb-8 md:pt-24 md:pb-12 container flex flex-col items-center"
 >
   <div class="flex flex-col items-center mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
     <h2 class="mb-4 text-4xl tracking-tight font-abold text-gray-900">
