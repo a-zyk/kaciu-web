@@ -4,37 +4,25 @@
   const data = [
     {
       price: "20",
-      title: "Basic",
+      title: "Konsultacija nuotoliu",
       description:
-        "Trumpa konsultacija turintiems specifinių kačių priežiūros klausimų ar įsigyjus naują kačiuką.",
+        "Pirminė konsultacija apie katės elgesį ir problemas. Nuotolinės konsultacijos metu galime nuspręsti ar reikalingas atvykimas į namus.",
       services: [
-        "45 min. trukmės nuotolinė konsultacija Jums patogiu būdu",
-        "Kačių šeimininko vadovas",
-      ],
-    },
-    {
-      price: "80",
-      title: "Advanced",
-      description:
-        "Šeimininkams, kurių katės turi specifinių problemų - kraiko dėžutės vengimas, agresija, baimė",
-      services: [
-        "120 min. trukmės konsultacija Jūsų namuose",
-        "Konsultacijos išvadų pateikimas",
-        "Aplinkos modifikacijų plano pateikimas",
-        "Kačių šeimininko vadovas",
+        "Katės šeimininko atsiųstos medžiagos analizė ir aptarimas",
+        "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
       ],
     },
     {
       price: "120",
-      title: "Premium",
+      title: "Konsultacija atvykus į namus",
       description:
-        "Šeimininkams, kurių katės turi specifinių problemų - kraiko dėžutės vengimas, agresija, baimė bei norima didesnio palaikymo iš manęs.",
+        "Konsultacijos namuose metu galime geriau įvertinti katės aplinką, identifikuoti stresorius ir natūralų elgesį.",
       services: [
-        "120 min. trukmės konsultacija Jūsų namuose",
-        "Konsultacijos išvadų pateikimas",
-        "Aplinkos modifikacijų plano pateikimas",
-        "Dvi 45 min. trukmės nuotolinės konsultacijos tolimesniems klausimams ir rezultatams aptarti",
-        "Kačių šeimininko vadovas",
+        "Konsultacija dėl katės elgesio",
+        "Gyvūno aplinkos vertinimas",
+        "Terapinio ir/arba modifikacinio plano parengimas(vaizdinė medžiaga)",
+        "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
+    
       ],
     },
   ];
@@ -59,9 +47,11 @@
         </li>
       {/each}
     </ul>
+ 
     <div class="grow"/>
    <a href="/#kontaktai">
     <Button>Kontaktai</Button>
    </a> 
+   <div class="font-light text-gray-500 text-sm">Tos pačios katės antra (pagal poreikį) nuotolinė konsultacija = 30eur/val.</div>
 </div>
 {/each}
