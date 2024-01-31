@@ -6,8 +6,9 @@
       price: "50",
       title: "Konsultacija nuotoliu",
       description:
-        "1.5 - 2 val. pirminė konsultacija apie katės elgesį ir problemas. Nuotolinės konsultacijos metu galime nuspręsti ar reikalingas atvykimas į namus.",
+        "Pirminė konsultacija apie katės elgesį ir problemas. Nuotolinės konsultacijos metu galime nuspręsti ar reikalingas atvykimas į namus.",
       services: [
+        "1.5 - 2 val. konsultacija dėl katės elgesio",
         "Katės šeimininko atsiųstos medžiagos analizė ir aptarimas",
         "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
       ],
@@ -19,6 +20,7 @@
         "Konsultacijos namuose metu galime geriau įvertinti katės aplinką, identifikuoti stresorius ir natūralų elgesį.",
       services: [
         "1.5 - 2 val. konsultacija dėl katės elgesio",
+        "Katės šeimininko atsiųstos medžiagos analizė ir aptarimas",
         "Gyvūno aplinkos vertinimas",
         "Terapinio ir/arba modifikacinio plano parengimas(vaizdinė medžiaga)",
         "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
