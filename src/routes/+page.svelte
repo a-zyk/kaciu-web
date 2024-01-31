@@ -4,7 +4,7 @@
 
 <svelte:head>
   <title
-    >Kačių psichologija - ar svajojate išspręsti savo katės elgesio problemas?</title
+    >Kačių psichologija - būdas išspręsti katės elgesio problemas.</title
   >
   <meta
     name="description"
