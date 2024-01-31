@@ -36,9 +36,9 @@
 >
     <h3 class="mb-4 text-2xl font-semibold">{item.title}</h3>
     <p class="font-light text-gray-500 sm:text-lg">{item.description}</p>
-    <div class="flex justify-center items-baseline my-4">
+    <!-- <div class="flex justify-center items-baseline my-4">
       <span class="mr-2 text-3xl font-bold">{item.price} Eur.</span>
-    </div>
+    </div> -->
     <!-- List -->
     <ul role="list" class="mb-8 space-y-4 text-left">
       {#each item.services as service}
@@ -54,6 +54,6 @@
    <a href="/#kontaktai">
     <Button>Kontaktai</Button>
    </a> 
-   <div class="font-light text-gray-500 text-sm">Tos pačios katės antra (pagal poreikį) nuotolinė konsultacija = 30eur/val.</div>
+   <!-- <div class="font-light text-gray-500 text-sm">Tos pačios katės antra (pagal poreikį) nuotolinė konsultacija = 30eur/val.</div> -->
 </div>
 {/each}
