@@ -3,22 +3,22 @@
   import Button from "./Button.svelte";
   const data = [
     {
-      price: "20",
+      price: "50",
       title: "Konsultacija nuotoliu",
       description:
-        "Pirminė konsultacija apie katės elgesį ir problemas. Nuotolinės konsultacijos metu galime nuspręsti ar reikalingas atvykimas į namus.",
+        "1.5 - 2 val. pirminė konsultacija apie katės elgesį ir problemas. Nuotolinės konsultacijos metu galime nuspręsti ar reikalingas atvykimas į namus.",
       services: [
         "Katės šeimininko atsiųstos medžiagos analizė ir aptarimas",
         "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
       ],
     },
     {
-      price: "120",
+      price: "70",
       title: "Konsultacija atvykus į namus",
       description:
         "Konsultacijos namuose metu galime geriau įvertinti katės aplinką, identifikuoti stresorius ir natūralų elgesį.",
       services: [
-        "Konsultacija dėl katės elgesio",
+        "1.5 - 2 val. konsultacija dėl katės elgesio",
         "Gyvūno aplinkos vertinimas",
         "Terapinio ir/arba modifikacinio plano parengimas(vaizdinė medžiaga)",
         "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
@@ -34,9 +34,9 @@
 >
     <h3 class="mb-4 text-2xl font-semibold">{item.title}</h3>
     <p class="font-light text-gray-500 sm:text-lg">{item.description}</p>
-    <!-- <div class="flex justify-center items-baseline my-4">
+    <div class="flex justify-center items-baseline my-4">
       <span class="mr-2 text-3xl font-bold">{item.price} Eur.</span>
-    </div> -->
+    </div>
     <!-- List -->
     <ul role="list" class="mb-8 space-y-4 text-left">
       {#each item.services as service}
