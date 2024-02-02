@@ -12,7 +12,7 @@
     mail
     class=" flex flex-col items-center gap-4 mb-5 font-light text-black sm:text-xl"
   >
-    <a class="font-medium" href="mailto:duoksletena@gmail.com">El. paštas: kaciuelgesys@gmail.com</a>
+    <a class="font-medium" href="mailto:kaciuelgesys@gmail.com">El. paštas: kaciuelgesys@gmail.com</a>
     <a href="https://www.facebook.com/kaciuelgesys" target="_blank">
        <Facebook/>
     </a>

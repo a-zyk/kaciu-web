@@ -1,4 +1,4 @@
-<div id="apie" class="container flex flex-col items-center justify-center md:flex-row gap-8 py-8 md:py-12">
+<div id="apie" class="container flex flex-col-reverse items-center justify-center md:flex-row gap-8 py-8 md:py-12">
   <div class="md:max-w-[400px] self-start rounded-lg overflow-hidden">
     <img class="w-full h-auto " src="/portrait.jpg" alt="portrait" />
   </div>

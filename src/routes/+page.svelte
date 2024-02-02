@@ -1,5 +1,5 @@
 <script>
-  import { Hero, About, Services, Contacts } from "$lib";
+  import { Hero, About, Services, Contacts, Book } from "$lib";
 </script>
 
 <svelte:head>
@@ -36,5 +36,6 @@
 
 <Hero />
 <Services />
+<Book/>
 <About />
 <Contacts />

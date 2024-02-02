@@ -10,7 +10,7 @@
       services: [
         "1.5 - 2 val. konsultacija dėl katės elgesio",
         "Katės šeimininko atsiųstos medžiagos analizė ir aptarimas",
-        "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
+        "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo.",
       ],
     },
     {
@@ -23,7 +23,7 @@
         "Katės šeimininko atsiųstos medžiagos analizė ir aptarimas",
         "Gyvūno aplinkos vertinimas",
         "Terapinio ir/arba modifikacinio plano parengimas(vaizdinė medžiaga)",
-        "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo ir tikslo pasiekti sėkmės rezultatą.",
+        "Po terapinio/modifikacinio plano pateikimo, su katės šeimininku nuolat palaikoma komunikacija dėl jo įgyvendinimo.",
     
       ],
     },
