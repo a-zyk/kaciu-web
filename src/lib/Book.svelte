@@ -1,5 +1,4 @@
 <div
-  id="apie"
   class="container flex flex-col items-center justify-center md:flex-row gap-8 py-8 md:py-12"
 >
   <div class="md:max-w-[400px] flex flex-col self-start items-center">
