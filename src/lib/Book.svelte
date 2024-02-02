@@ -16,7 +16,7 @@
     </p>
     <p class="mb-5 font-light text-gray-500 sm:text-xl">
       Knygą galite įsigyti popieriniu, PDF ar audio formatu. Dėl įsigyjimo
-      kreipkitės <a href="mailto:kaciuelgesysa@gmail.com"
+      kreipkitės <a href="mailto:kaciuelgesys@gmail.com"
         >kaciuelgesys@gmail.com</a
       >
     </p>
