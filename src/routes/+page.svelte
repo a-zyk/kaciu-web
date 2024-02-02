@@ -30,7 +30,7 @@
     property="og:description"
     content="Pasitelkus kačių psichologijos principus galime geriau suprasti agresyvaus elgesio, baimės, vengimo naudotis kraiko dėžute priežastis bei jas išpręsti"
   />
-  <meta property="og:image" content="/article_cat" />
+  <meta property="og:image" content="/cat_full.webp" />
   <meta property="og:locate" content="LT_lt" />
 </svelte:head>
 
